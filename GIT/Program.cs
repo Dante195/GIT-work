@@ -5,7 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace GIT
-{
+{// чувырлик )) хехе
+ // сессия 1
+
     class Program
     {
         static void Main(string[] args)
