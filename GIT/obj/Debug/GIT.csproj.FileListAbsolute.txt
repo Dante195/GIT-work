@@ -1,0 +1,7 @@
+D:\Games\Visual Studio\GIT\GIT\bin\Debug\GIT.exe.config
+D:\Games\Visual Studio\GIT\GIT\bin\Debug\GIT.exe
+D:\Games\Visual Studio\GIT\GIT\bin\Debug\GIT.pdb
+D:\Games\Visual Studio\GIT\GIT\obj\Debug\GIT.csproj.AssemblyReference.cache
+D:\Games\Visual Studio\GIT\GIT\obj\Debug\GIT.csproj.CoreCompileInputs.cache
+D:\Games\Visual Studio\GIT\GIT\obj\Debug\GIT.exe
+D:\Games\Visual Studio\GIT\GIT\obj\Debug\GIT.pdb
